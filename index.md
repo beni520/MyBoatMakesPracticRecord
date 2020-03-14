@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的划船练习记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/MyBoatMakesPracticRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+划船是一件非常有趣和健康的兴趣爱好，你可以和家人一起划着小船在绿水千山中滑行，也可以和朋友一起在湖中自由自在的泛着小舟。当然，划船也是有很多技巧需要练习的。你可以记录你计划划船练习的时间，实际练习的时间，滑行的距离和获得的心得体会和感受等。帮助你了解自己的划船练习情况，更好的提升自己，享受划船的快乐。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyBoatMakesPracticRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
